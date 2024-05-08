@@ -1,2 +1,2 @@
-const TITLE = "template-web";
+const TITLE = "weather";
 console.log(`[${TITLE}] init`);
